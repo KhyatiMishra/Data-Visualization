@@ -1,0 +1,1 @@
+This Tableau story presents the analysis of current freight process followed by Pepsico. Based on the analysis on various factors we have tried to determine which are the most cost-effective carriers which help in on-time delivery of products and help boost business.
